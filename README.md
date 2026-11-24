@@ -1,5 +1,18 @@
-# 💫 About Me:
-<br>
+
+# 💫 Hi 👋, I'm Krishna Yadav
+**A passionate Software Developer || Back-end Engineer || Inter**
+
+Email Me 👉 ✉️ **ky96156@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** AI agentic 
+- 🌱 **I’m currently learning:** JAVA Back-end, AI Tools, LLM, RAG Models
+- 👯 **I’m looking to collaborate on:** Live projects
+- 🤔 **I’m looking for help with:** New website of E-commers
+- 💬 **Ask me about:**Projects, Freelancing
+- 📫 **How to reach me:** ky96156@gmail.com
+- 😄 **Pronouns:** Krishna Yadav
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
 
 
 ## 🌐 Socials:
@@ -11,6 +24,11 @@
 ![](https://github-readme-stats.shion.dev/api?username=Krishnaa1102&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Krishnaa1102&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Krishnaa1102&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Krishnaa1102&theme=radical&no-frame=false&no-bg=true&margin-w=4)
